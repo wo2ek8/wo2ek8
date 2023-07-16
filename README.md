@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=사실말야내가말야그게그러니까말야&fontSize=15" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=🍦Welcome%20to%20 Jaeibrary🍦&fontSize=15" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
