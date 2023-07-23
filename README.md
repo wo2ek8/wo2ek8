@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 	
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🍦Welcome%20to%20Jaeibrary🍦&fontSize=20" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🍦Welcome%20to%20Jaeibrary🍦\nLet's begin the adventure&fontSize=20" />
 
 
 	
