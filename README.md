@@ -78,9 +78,11 @@ Here are some ideas to get you started:
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo2ek8&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=wo2ek8&show_icons=true">
-
 <br>
+<br>
+
 [![](https://banner.codetree.ai/v1/banner/jaes2son)](https://www.codetree.ai/profiles/jaes2son)
+<br>
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 
