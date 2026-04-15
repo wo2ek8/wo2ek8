@@ -76,15 +76,11 @@ Here are some ideas to get you started:
 
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo2ek8&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=wo2ek8&show_icons=true">
-<br>
-<br>
 
-[![](https://banner.codetree.ai/v1/banner/jaes2son)](https://www.codetree.ai/profiles/jaes2son)
-<br>
-<br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wo2ek8)](https://solved.ac/wo2ek8)
+![Baekjoon Tier](https://mazassumnida.vercel.app/api/generate_badge?boj={wo2ek8})
+<br>
+![Solved.ac Streak](https://mazandi.herokuapp.com/api?handle={wo2ek8}&theme=warm)
+
 </div>
