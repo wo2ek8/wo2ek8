@@ -1,7 +1,7 @@
-# Jaeibrary 👋
+### Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20Jaeibrary&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🍦Welcome%20to%20Jaeibrary🍦&fontSize=20" />
 </div>
 
 ## 📚 Tech Stack
@@ -37,26 +37,18 @@
 
 ## 📊 Stats & Performance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wo2ek8&show_icons=true&theme=default" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo2ek8&layout=compact&theme=default" height="170">
-</div>
 
-<br>
 
 <div align="center">
   <p><b>Algorithm Records</b></p>
-  <a href="https://solved.ac/wo2ek8">
-    <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=wo2ek8" alt="Baekjoon Tier">
-  </a>
-  <br><br>
-  <a href="https://www.codetree.ai/profiles/jaes2son">
-    <img src="https://banner.codetree.ai/v1/banner/jaes2son" width="400">
-  </a>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wo2ek8)](https://solved.ac/wo2ek8)
+
+  
 </div>
 
 ---
 
 <div align="center">
-  <b>Contact: wo2ek8@naver.com</b>
+  <b>Contact: jae2son@gmail.com</b>
 </div>
