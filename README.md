@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 
-![Baekjoon Tier](https://mazassumnida.vercel.app/api/generate_badge?boj={wo2ek8})
+![Baekjoon Tier](https://mazassumnida.vercel.app/api/v2/generate_badge?boj={wo2ek8})
 <br>
 ![Solved.ac Streak](https://mazandi.herokuapp.com/api?handle={wo2ek8}&theme=warm)
 
