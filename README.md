@@ -41,15 +41,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 </div>
 
-## 📊 Stats
-
-<div align="center">
-  <p><b>Algorithm Records</b></p>
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wo2ek8)](https://solved.ac/wo2ek8)
-
-</div>
-
 ---
 
 <div align="center">
